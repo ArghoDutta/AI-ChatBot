@@ -1,2 +1,2 @@
-# AI-ChatBot using html css and javascript and with the help of gemini api..
+# AI-ChatBot using html css and javascript
 link: https://arghodutta.github.io/AI-ChatBot/
